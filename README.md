@@ -14,5 +14,5 @@ We have data from a Portuguese bank on details of customers related to selling a
 
 ## Best Performance Model  : Bagging Classifier 
 used SMOTE and undersampler technique to balance the data
-Accuracy score:0.945
-Recall score: 0.948
+* Accuracy score:0.945
+* Recall score: 0.948
